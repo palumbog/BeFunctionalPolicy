@@ -18,8 +18,6 @@ Identificatori: identificatori univoci, per inviare notifiche al tuo device.
 Le informazioni che raccogliamo vengono utilizzate al solo scopo di una piacevole ed utile esperienza utente e per una personalizzazione e miglioramento del prodotto.
 
 ### III. Come vengono condivise queste informazioni?
-Condividiamo le tue 
-Condivisione dei contenuti con partner terzi
 I dati forniti non vengono condivisi con partner terzi.
     
 ### IV. Quali sono le nostre basi legali per il trattamento dei dati?
