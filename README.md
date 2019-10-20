@@ -7,11 +7,11 @@ Le informazioni che vengono raccolte al fine del corretto funzionamento dell'app
 Azioni che tu e altri effettuate ed elementi che fornite.
 Informazioni e contenuti che fornisci. 
 Raccogliamo i contenuti, le comunicazioni e le altre informazioni che fornisci quando usi BeFunctional quando effettui una prenotazione, invii messaggi o comunichi con le altre persone. Può trattarsi di informazioni presenti nei contenuti forniti o relative a essi (come i metadati), ad esempio la data in cui è stata effettuata una prenotazione. I nostri sistemi trattano automaticamente contenuti e comunicazioni che tu o altri fornite per analizzarne contesto e contenuti per le finalità descritte qui sotto.
-Informazioni sul dispositivo
-Come indicato qui sotto, raccogliamo informazioni provenienti dal dispositivo che utilizzi.
+#### Informazioni sul dispositivo
 Le informazioni che raccogliamo da questi dispositivi comprendono:
 Stato della connessione ad internet: questa informazione ci è utile al fine di aggiornare i contenuti a connessione effettuata.
-Operazioni del dispositivo: informazioni su operazioni e comportamenti effettuati sul dispositivo, ad esempio se una finestra è in primo piano.
+#### Operazioni del dispositivo
+Informazioni su operazioni e comportamenti effettuati sul dispositivo, ad esempio se una finestra è in primo piano.
 Identificatori: identificatori univoci, per inviare notifiche al tuo device.
 
 ### II. Come usiamo queste informazioni?
