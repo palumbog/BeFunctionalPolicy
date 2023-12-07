@@ -1,8 +1,8 @@
 # Elimina il tuo account
 Per eliminare il tuo account segui i seguenti passaggi:
 ## I. Aprire l'app BeFunctional sul tuo smartphone ed effettuare il login.
-## II. Vai nella pagina "Profilo"
-## III. Clicca il bottone "Elimina Account" e conferma.
+## II. Andare nella pagina "Profilo"
+## III. Cliccare il bottone "Elimina Account" e confermare.
 
 pepomaster10@gmail.com
 
